@@ -1,13 +1,15 @@
 # banking-service
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure service designed to mockup home banking APIS
 
 ## Usage
 
-FIXME
+```bash
+lein run
+```
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Infocorp
 
 Distributed under the Eclipse Public License, the same as Clojure.
