@@ -1,0 +1,14 @@
+"Navigation" : {
+             "entries": {
+                        "novedades": {
+                                     "icon": "http://localhost:8000/icons/01-refresh.png"
+                        }
+             }
+},
+"List:Newsfeed" : {
+    "order-by" : "timestamp",
+    "api": {
+        "type":"REST",
+        "url": "http://localhost:8000/newsfeed"
+    }
+}
